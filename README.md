@@ -2,6 +2,8 @@
 <h3 align="center">Backend developer with expertise in Java, adept at working with both SQL and NoSQL databases. Enthusiastic about microservice architecture. Always eager to learn and take on new challenges in the tech world, constantly seeking to expand my knowledge and refine my skills.</h3>
 
 - 🌱 I’m currently learning **Kubernetes and AWS**
+  
+- 🔭 I’m currently working on [CodeCrustPizza](https://github.com/ShushaAlex/CodeCrustPizza)
 
 - 📫 How to reach me **alexandra.grigorchenko@gmail.com**
 
