@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alexandra.grigorchenko@gmail.com**
 
-- 📄 Know about my experiences [my CV]([link](https://github.com/ShushaAlex/ShushaAlex/blob/main/Grigorchenko_CV.pdf))
+- 📄 Know about my experiences [my CV](https://github.com/ShushaAlex/ShushaAlex/blob/main/Grigorchenko_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
